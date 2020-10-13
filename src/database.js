@@ -1,5 +1,6 @@
 const mongoose = require('mongoose');
-
+//No es necesario crear una base de datos para poder conectarse a una, se creará automáticamente
+//cuando guardemos algún dato en ella
 mongoose.connect('mongodb://localhost/database01', {
     useUnifiedTopology : true,
     useNewUrlParser : true,
