@@ -1,7 +1,7 @@
 # 1.1-template
 Proyecto en NodeJS, con ejemplos de servicios de GET,POST,PUT y DELETE y conexión a una base de datos Mongodb.
 
-1 - Necesaria la instalación de MongoDB.**
+1 - Instalación de MongoDB.
 
 	**Si no se instala MongoDB como servicio**
 
